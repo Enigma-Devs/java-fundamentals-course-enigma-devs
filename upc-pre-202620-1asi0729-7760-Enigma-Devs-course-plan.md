@@ -55,24 +55,24 @@ Curso introductorio dirigido a estudiantes de secundaria de **12 a 17 años**, s
 - **Resultado esperado:** El programa registra las rondas de juego sin repetición manual de instrucciones.
 - **Pausa de práctica:** detener el video, completar la actividad y ejecutar el código en el navegador.
 
-### Lección 5. Métodos, parámetros y entrada de datos (7 minutos)
+### Lección 5. Conversor de unidades (7 minutos)
 
-- **Objetivo:** Organizar instrucciones reutilizables e interactuar con la consola.
-- **Conceptos:** Métodos, argumentos, parámetros, `Scanner` y salida por consola.
-- **Actividad progresiva:** Crear métodos para alimentar y jugar; recibir el nombre de la mascota con `Scanner`.
-- **Video en YouTube (no listado):** `[PEGAR URL REAL DEL VIDEO 5]`.
-- **Práctica en editor Java en línea (precargada):** `[PEGAR URL REAL DE LA PRÁCTICA 5]`.
-- **Resultado esperado:** El usuario puede ingresar un dato y llamar métodos para modificar el estado.
+- **Objetivo:** Crear métodos reutilizables que reciban parámetros y devuelvan resultados.
+- **Conceptos:** Métodos, parámetros, argumentos, valores de retorno y uso de `return`.
+- **Actividad progresiva:** Crear métodos para convertir kilómetros a millas y grados Celsius a Fahrenheit. Utilizar un ciclo `for` para realizar varias conversiones.
+- **Video en YouTube (no listado):** [Ver lección 5](https://youtu.be/MwVbLCr2oJo?si=9uOs7M4Exig4VAlF).
+- **Práctica en editor Java en línea (precargada):** [Practica 5](https://onlinegdb.com/0VVlnQ5hQn).
+- **Resultado esperado:** El usuario puede ejecutar métodos que reciben valores, realizan conversiones y devuelven resultados.
 - **Pausa de práctica:** detener el video, completar la actividad y ejecutar el código en el navegador.
 
-### Lección 6. Arrays: una pequeña lista de actividades (6 minutos)
+### Lección 6. Saludo personalizado (6 minutos)
 
-- **Objetivo:** Agrupar y recorrer datos sencillos.
-- **Conceptos:** Arrays, índices y recorrido mediante `for`.
-- **Actividad progresiva:** Crear un arreglo con actividades disponibles y mostrar sus elementos.
-- **Video en YouTube (no listado):** `[PEGAR URL REAL DEL VIDEO 6]`.
-- **Práctica en editor Java en línea (precargada):** `[PEGAR URL REAL DE LA PRÁCTICA 6]`.
-- **Resultado esperado:** La consola muestra las actividades que puede realizar la mascota.
+- **Objetivo:** Recibir datos ingresados por el usuario y utilizarlos para generar respuestas personalizadas.
+- **Conceptos:** `Scanner`, `nextLine()`, `nextInt()`, métodos, parámetros y estructuras condicionales `if`, `else if` y `else`.
+- **Actividad progresiva:** Solicitar el nombre y año de nacimiento del usuario mediante `Scanner`, calcular su edad aproximada y mostrar un saludo personalizado según su grupo de edad.
+- **Video en YouTube (no listado):** [Ver lección 6](https://youtu.be/mw--4A3Pfp4?si=QjdL56Xb8icSgwdt).
+- **Práctica en editor Java en línea (precargada):** [Practica 6](https://onlinegdb.com/4EqOPuTe8).
+- **Resultado esperado:** El usuario puede ingresar información por teclado y obtener una respuesta personalizada mediante métodos y condicionales.
 - **Pausa de práctica:** detener el video, completar la actividad y ejecutar el código en el navegador.
 
 ### Lección 7. POO: clase, objeto y constructor (8 minutos)
@@ -121,8 +121,8 @@ La experiencia se desarrolla **desde la primera lección**, por lo que el video 
 | 2 | `starter-files/` y `completed-examples/` (pendientes de incorporar) | `[PENDIENTE: ENLACE PRECARGADO 2]` |
 | 3 | `starter-files/` y `completed-examples/` (pendientes de incorporar) | `[PENDIENTE: ENLACE PRECARGADO 3]` |
 | 4 | `starter-files/` y `completed-examples/` (pendientes de incorporar) | `[PENDIENTE: ENLACE PRECARGADO 4]` |
-| 5 | `starter-files/` y `completed-examples/` (pendientes de incorporar) | `[PENDIENTE: ENLACE PRECARGADO 5]` |
-| 6 | `starter-files/` y `completed-examples/` (pendientes de incorporar) | `[PENDIENTE: ENLACE PRECARGADO 6]` |
+| 5 | `starter-files/leccion-05-conversor-de-unidades/` y `completed-examples/leccion-05-conversor-de-unidades/` | Pendiente de configurar |
+| 6 | `starter-files/leccion-06-saludo-personalizado/` y `completed-examples/leccion-06-saludo-personalizado/` | Pendiente de configurar |
 | 7 | `starter-files/` y `completed-examples/` (pendientes de incorporar) | `[PENDIENTE: ENLACE PRECARGADO 7]` |
 | 8 | `starter-files/` y `completed-examples/` (pendientes de incorporar) | `[PENDIENTE: ENLACE PRECARGADO 8]` |
 | 9 | `starter-files/` y `completed-examples/` (pendientes de incorporar) | `[PENDIENTE: ENLACE PRECARGADO 9]` |
@@ -137,11 +137,19 @@ La experiencia se desarrolla **desde la primera lección**, por lo que el video 
 - **Carrera:** Ingeniería de Software.
 - **Curso:** 1ASI0729 Desarrollo de Aplicaciones Open Source.
 - **Ciclo:** 202620.
-- **NRC:** `[REEMPLAZAR POR NRC]`.
+- **NRC:** `7760`.
 - **Nombre del equipo / startup:** `[REEMPLAZAR POR NOMBRE OFICIAL]`.
 - **Líder del equipo:** `[REEMPLAZAR POR NOMBRE COMPLETO]`.
 - **Integrantes:** `[AGREGAR NOMBRES COMPLETOS Y USUARIOS GITHUB]`.
 - **Fecha de entrega:** `[REEMPLAZAR]`.
+
+### Herramientas y documentación complementaria
+
+- **Repositorio del curso:** [Java Fundamentals Course - Enigma Devs](https://github.com/Enigma-Devs/java-fundamentals-course-enigma-devs).
+- **Editor de Java en línea:** [OnlineGDB](https://www.onlinegdb.com/online_java_compiler).
+- **Documentación oficial de Java:** [Oracle Java Documentation](https://docs.oracle.com/en/java/).
+- **Documentación de la clase Scanner:** [Java Scanner API](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Scanner.html).
+- **Práctica adicional:** Se recomienda ejecutar los ejemplos, modificar sus valores y desarrollar las actividades propuestas en cada lección.
 
 ### Resumen de contribuciones
 
