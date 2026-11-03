@@ -22,7 +22,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Actividad progresiva:** Ejecutar el programa «Hello World» en OnlineGDB y transformarlo en una tarjeta de presentación que muestre un nombre, una edad y un pasatiempo con `System.out.println`.
 - **Resultado esperado:** El programa muestra en la consola cada dato de la tarjeta en su propia línea y en orden.
 - **¡Tu turno!:** escribir la tarjeta propia. Reto extra: agregar la comida favorita.
-- **Video en YouTube (no listado):** [Ver lección 1](https://youtu.be/H7QWgHaTVNg)
+- **Video en YouTube:** [Ver lección 1](https://youtu.be/H7QWgHaTVNg)
 - **Práctica en editor Java en línea (precargada):** [Práctica 1](https://onlinegdb.com/mctH9lQyc) 
 
 ### Lección 2. Perfil de red social (4 minutos)
@@ -32,7 +32,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Actividad progresiva:** Declarar el nombre de usuario, los seguidores, el promedio de likes y la verificación de una cuenta, y mostrar el perfil completo con `System.out.println`.
 - **Resultado esperado:** La consola muestra el perfil y se actualiza al cambiar el valor de una variable.
 - **¡Tu turno!:** crear el perfil de un personaje, youtuber o futbolista favorito. Reto extra: agregar la cantidad de publicaciones.
-- **Video en YouTube (no listado):** [Ver lección 2](https://youtu.be/lRJa5YG2ivc)
+- **Video en YouTube:** [Ver lección 2](https://youtu.be/lRJa5YG2ivc)
 - **Práctica en editor Java en línea (precargada):** [Práctica 2](https://onlinegdb.com/6QTGRRdy0) 
 
 ### Lección 3. Plan de ahorro (6 minutos)
@@ -42,7 +42,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Actividad progresiva:** Calcular cuántas semanas se necesitan para comprar unos audífonos de S/ 180 ahorrando S/ 25 por semana, cuánto sobra y cuánto se lleva ahorrado semana a semana.
 - **Resultado esperado:** La consola muestra el total de un mes, las semanas completas, lo que sobra y lo que falta, todo calculado por Java.
 - **¡Tu turno!:** armar un plan de ahorro propio y calcular las semanas y lo que sobra. Reto extra: calcular cuántos meses son.
-- **Video en YouTube (no listado):** [Ver lección 3](https://youtu.be/U0CJqYzOJrY)
+- **Video en YouTube:** [Ver lección 3](https://youtu.be/U0CJqYzOJrY)
 - **Práctica en editor Java en línea (precargada):** [Práctica 3](https://onlinegdb.com/pTATssOnA) 
 
 ### Lección 4. Batería del celular (6 minutos)
@@ -52,7 +52,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Actividad progresiva:** Simular la batería de un celular: avisar si está baja con `if-else`, cargarla de 10 en 10 hasta 100 con `while` y mostrar 3 notificaciones con `for`.
 - **Resultado esperado:** El programa decide según el valor de la batería y repite acciones sin copiar instrucciones.
 - **¡Tu turno!:** simular un celular propio, cargarlo de 5 en 5 y mostrar 5 notificaciones. Reto extra: mostrar «Carga completa» al llegar a 100.
-- **Video en YouTube (no listado):** [Ver lección 4](https://youtu.be/6RwyIvrcPm0)
+- **Video en YouTube:** [Ver lección 4](https://youtu.be/6RwyIvrcPm0)
 - **Práctica en editor Java en línea (precargada):** [Práctica 4](https://onlinegdb.com/w7q37cW2Y) 
 
 ### Lección 5. Conversor de unidades (6 minutos)
@@ -62,7 +62,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Actividad progresiva:** Crear métodos para convertir kilómetros a millas y grados Celsius a Fahrenheit, y usar un ciclo `for` para generar una tabla de conversión.
 - **Resultado esperado:** El programa llama varias veces a los mismos métodos y la fórmula se escribe una sola vez.
 - **¡Tu turno!:** crear el método `kgALibras` y llamarlo. Reto extra: una tabla de temperaturas de 0 a 40 grados, de 10 en 10.
-- **Video en YouTube (no listado):** [Ver lección 5](https://youtu.be/MwVbLCr2oJo)
+- **Video en YouTube:** [Ver lección 5](https://youtu.be/MwVbLCr2oJo)
 - **Práctica en editor Java en línea (precargada):** [Práctica 5](https://onlinegdb.com/IWeoQoYOp) 
 
 ### Lección 6. Saludo personalizado (6 minutos)
@@ -72,7 +72,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Actividad progresiva:** Solicitar el nombre y año de nacimiento del usuario mediante `Scanner`, calcular su edad aproximada con un método y mostrar un saludo según su grupo de edad.
 - **Resultado esperado:** El usuario ingresa información por teclado y obtiene una respuesta personalizada.
 - **¡Tu turno!:** hacer que el programa pregunte el nombre y el año de nacimiento y salude. Reto extra: preguntar la comida favorita y mencionarla en el saludo.
-- **Video en YouTube (no listado):** [Ver lección 6](https://youtu.be/mw--4A3Pfp4)
+- **Video en YouTube:** [Ver lección 6](https://youtu.be/mw--4A3Pfp4)
 - **Práctica en editor Java en línea (precargada):** [Práctica 6](https://onlinegdb.com/Mg8CYm7Gh) 
 
 ### Lección 7. Mi celular como objeto (7 minutos)
@@ -82,7 +82,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Actividad progresiva:** Crear la clase `Celular` con marca, modelo y batería, un constructor y los métodos `mostrarInfo()` y `usar(minutos)`; fabricar dos celulares con `new` y usarlos distintos minutos.
 - **Resultado esperado:** Dos objetos creados con el mismo molde guardan y cambian su propia batería.
 - **¡Tu turno!:** fabricar el celular propio y el de alguien de la familia y usarlos distintos minutos. Reto extra: agregar un método `cargar`.
-- **Video en YouTube (no listado):** [Ver lección 7](https://youtu.be/T-xfkiFNN70)
+- **Video en YouTube:** [Ver lección 7](https://youtu.be/T-xfkiFNN70)
 - **Práctica en editor Java en línea (precargada):** [Práctica 7](https://onlinegdb.com/p3e1PN0LN)
 
 ### Lección 8. Alcancía digital (6 minutos)
@@ -92,7 +92,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Actividad progresiva:** Crear la clase `Alcancia` con un saldo privado, un getter para consultarlo y un método `depositar()` que rechaza montos no válidos; comprobar que Java no permite cambiar el saldo directamente.
 - **Resultado esperado:** El saldo no se modifica desde fuera de la clase y los depósitos negativos se rechazan.
 - **¡Tu turno!:** crear una alcancía propia y hacer varios depósitos, incluido uno negativo. Reto extra: agregar un método `retirar` que solo deje sacar dinero si hay saldo suficiente.
-- **Video en YouTube (no listado):** [Ver lección 8](https://youtu.be/Lqtflxm7jHg)
+- **Video en YouTube:** [Ver lección 8](https://youtu.be/Lqtflxm7jHg)
 - **Práctica en editor Java en línea (precargada):** [Práctica 8](https://onlinegdb.com/hDD2zPA8x) 
 
 ### Lección 9. Lista de contactos (DURACION_9 minutos)
@@ -102,7 +102,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Actividad progresiva:** Crear una lista de contactos como un array de objetos, recorrerla con `for` y buscar un contacto por su nombre.
 - **Resultado esperado:** El programa muestra todos los contactos y encuentra uno por su nombre.
 - **¡Tu turno!:** TU_TURNO_9
-- **Video en YouTube (no listado):** [Ver lección 9](https://youtu.be/wYNS9N1M_nc)
+- **Video en YouTube:** [Ver lección 9](https://youtu.be/wYNS9N1M_nc)
 - **Práctica en editor Java en línea (precargada):** [Práctica 9](URL_PRACTICA_9) 
 
 ### Lección 10. Mi playlist: proyecto final 
@@ -111,7 +111,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Actividad progresiva:** Construir «Mi playlist», una aplicación de consola basada en objetos que reúne lo visto en las lecciones 1 a 9.
 - **Resultado esperado:** El estudiante ejecuta y modifica un programa completo desde el navegador.
 - **¡Tu turno!:** TU_TURNO_10
-- **Video en YouTube (no listado):** [Ver lección 10](https://youtu.be/hKvoJpXiq0g)
+- **Video en YouTube:** [Ver lección 10](https://youtu.be/hKvoJpXiq0g)
 - **Práctica en editor Java en línea (precargada):** [Práctica 10](URL_PRACTICA_10) 
 
 ## Proyecto final integrador: «Mi playlist»
