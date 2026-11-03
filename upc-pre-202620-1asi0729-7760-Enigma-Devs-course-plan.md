@@ -15,24 +15,24 @@ Curso introductorio dirigido a estudiantes de secundaria de **12 a 17 años**, s
 
 ## Secuencia de lecciones
 
-### Lección 1. ¿Qué es Java? Primer mensaje en consola (5 minutos)
+### Lección 1. Tarjeta de presentación (6 minutos)
 
-- **Objetivo:** Identificar qué es programar y ejecutar un primer programa.
-- **Conceptos:** `System.out.println`, clase `Main`, método `main`.
-- **Actividad progresiva:** Crear un saludo para una mascota con `System.out.println`.
+- **Objetivo:** Comprender qué es un programa y qué es Java, y ejecutar un primer programa en el navegador.
+- **Conceptos:** Programa, entrada-proceso-salida, lenguaje de programación, compilador, Máquina Virtual de Java, consola y `System.out.println`.
+- **Actividad progresiva:** Ejecutar el programa «Hello World» en OnlineGDB y transformarlo en una tarjeta de presentación que muestre un nombre, una edad y un pasatiempo con `System.out.println`.
 - **Video en YouTube (no listado):** `[PEGAR URL REAL DEL VIDEO 1]`.
-- **Práctica en editor Java en línea (precargada):** `[PEGAR URL REAL DE LA PRÁCTICA 1]`.
-- **Resultado esperado:** El programa imprime correctamente un mensaje.
+- **Práctica en editor Java en línea (precargada):** [Practica 1](https://onlinegdb.com/jRxEJQi09j).
+- **Resultado esperado:** El programa muestra en la consola cada dato de la tarjeta en su propia línea y en orden.
 - **Pausa de práctica:** detener el video, completar la actividad y ejecutar el código en el navegador.
 
-### Lección 2. Variables, tipos de datos y operadores (7 minutos)
+### Lección 2. Perfil de red social (4 minutos)
 
-- **Objetivo:** Guardar información y realizar cálculos sencillos.
-- **Conceptos:** `int`, `String`, `boolean`, operadores aritméticos y de comparación.
-- **Actividad progresiva:** Definir el nombre, la edad, la energía y el hambre de la mascota; usar operadores para modificar su energía.
+- **Objetivo:** Guardar información en variables y mostrarla en la consola.
+- **Conceptos:** Variables (tipo, nombre y valor), `String`, `int`, `double`, `boolean`, camelCase y unión de texto y variables con `+`.
+- **Actividad progresiva:** Declarar el nombre de usuario, los seguidores, el promedio de likes y la verificación de una cuenta, y mostrar el perfil completo con `System.out.println`.
 - **Video en YouTube (no listado):** `[PEGAR URL REAL DEL VIDEO 2]`.
-- **Práctica en editor Java en línea (precargada):** `[PEGAR URL REAL DE LA PRÁCTICA 2]`.
-- **Resultado esperado:** Las variables y los cambios de energía se muestran en la consola.
+- **Práctica en editor Java en línea (precargada):** [Practica 2](https://onlinegdb.com/gC5jYal3P).
+- **Resultado esperado:** La consola muestra el perfil y se actualiza al cambiar el valor de una variable.
 - **Pausa de práctica:** detener el video, completar la actividad y ejecutar el código en el navegador.
 
 ### Lección 3. Condicionales: ¿puede jugar la mascota? (7 minutos)
@@ -117,8 +117,8 @@ La experiencia se desarrolla **desde la primera lección**, por lo que el video 
 
 | Lección | Material | Editor en línea |
 |---|---|---|
-| 1 | `starter-files/` y `completed-examples/` (pendientes de incorporar) | `[PENDIENTE: ENLACE PRECARGADO 1]` |
-| 2 | `starter-files/` y `completed-examples/` (pendientes de incorporar) | `[PENDIENTE: ENLACE PRECARGADO 2]` |
+| 1 | `starter-files/leccion-01-tarjeta-de-presentacion/` y `completed-examples/leccion-01-tarjeta-de-presentacion/` | [OnlineGDB](https://onlinegdb.com/jRxEJQi09j) |
+| 2 | `starter-files/leccion-02-perfil-de-red-social/` y `completed-examples/leccion-02-perfil-de-red-social/` | [OnlineGDB](https://onlinegdb.com/gC5jYal3P) |
 | 3 | `starter-files/` y `completed-examples/` (pendientes de incorporar) | `[PENDIENTE: ENLACE PRECARGADO 3]` |
 | 4 | `starter-files/` y `completed-examples/` (pendientes de incorporar) | `[PENDIENTE: ENLACE PRECARGADO 4]` |
 | 5 | `starter-files/leccion-05-conversor-de-unidades/` y `completed-examples/leccion-05-conversor-de-unidades/` | Pendiente de configurar |
