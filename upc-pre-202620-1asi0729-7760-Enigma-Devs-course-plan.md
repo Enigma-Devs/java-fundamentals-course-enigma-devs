@@ -6,7 +6,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 
 - **Duración total:** ~60 minutos.
 - **Formato:** 10 videos cortos de YouTube, publicados como **no listados**.
-- **Lista de reproducción:** [Ver el curso completo](URL_PLAYLIST).
+- **Lista de reproducción:** [Ver el curso completo](https://youtube.com/playlist?list=PLdj8RZo5b8Io).
 - **Público objetivo:** estudiantes de 12 a 17 años sin experiencia en programación.
 - **Prerrequisitos:** ninguno.
 - **Herramientas necesarias:** **¡solo tu navegador web!** (Chrome, Firefox, Safari o Edge) y el editor gratuito [OnlineGDB](https://www.onlinegdb.com/online_java_compiler). No se requiere instalar programas.
