@@ -53,7 +53,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Resultado esperado:** El programa decide según el valor de la batería y repite acciones sin copiar instrucciones.
 - **¡Tu turno!:** simular un celular propio, cargarlo de 5 en 5 y mostrar 5 notificaciones. Reto extra: mostrar «Carga completa» al llegar a 100.
 - **Video en YouTube:** [Ver lección 4](https://youtu.be/6RwyIvrcPm0)
-- **Práctica en editor Java en línea (precargada):** [Práctica 4](https://onlinegdb.com/5r4s81Hj7j) 
+- **Práctica en editor Java en línea (precargada):** [Práctica 4](https://onlinegdb.com/dEBqmqIlJ) 
 
 ### Lección 5. Conversor de unidades (6 minutos)
 
@@ -103,7 +103,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Resultado esperado:** El programa muestra todos los contactos y encuentra uno por su nombre.
 - **¡Tu turno!:** TU_TURNO_9
 - **Video en YouTube:** [Ver lección 9](https://youtu.be/wYNS9N1M_nc)
-- **Práctica en editor Java en línea (precargada):** [Práctica 9](URL_PRACTICA_9) 
+- **Práctica en editor Java en línea (precargada):** [Práctica 9](https://onlinegdb.com/cXHSzrNYA) 
 
 ### Lección 10. Mi playlist: proyecto final 
 - **Objetivo:** Integrar todo lo aprendido en un programa completo y conocer buenas prácticas y errores comunes.
@@ -112,11 +112,11 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Resultado esperado:** El estudiante ejecuta y modifica un programa completo desde el navegador.
 - **¡Tu turno!:** TU_TURNO_10
 - **Video en YouTube:** [Ver lección 10](https://youtu.be/hKvoJpXiq0g)
-- **Práctica en editor Java en línea (precargada):** [Práctica 10](URL_PRACTICA_10) 
+- **Práctica en editor Java en línea (precargada):** [Práctica 10](https://onlinegdb.com/pJi2lbpVl) 
 
 ## Proyecto final integrador: «Mi playlist»
 
-El curso avanza con un proyecto corto en cada lección, y cada uno retoma lo anterior: la tarjeta de presentación usa `println`; el perfil de red social agrega variables; el plan de ahorro, operadores; la batería del celular, decisiones y ciclos; el conversor, métodos; el saludo personalizado, lectura de datos; el celular y la alcancía, clases y encapsulación; y la lista de contactos, arrays de objetos. Desde la lección 1 se anuncia la meta del curso, y en la lección 10 todo se integra en «Mi playlist», una aplicación de consola basada en objetos, junto con las buenas prácticas y los errores más comunes de quien empieza a programar.
+El curso avanza con un proyecto corto en cada lección, y cada uno retoma lo anterior: la tarjeta de presentación usa `println`; el perfil de red social agrega variables; el plan de ahorro, operadores; la batería del celular, decisiones y ciclos; el conversor, métodos; el saludo personalizado, lectura de datos; el celular y la alcancía, clases y encapsulación; y la lista de contactos, arrays de objetos. Desde la lección 1 se anuncia la meta del curso, y en la lección 10 todo se integra en la creación de una playlist de canciones, una aplicación de consola basada en objetos, junto con las buenas prácticas y los errores más comunes de quien empieza a programar.
 
 ## Recursos adicionales
 
@@ -128,13 +128,13 @@ El curso avanza con un proyecto corto en cada lección, y cada uno retoma lo ant
 | 1 | Tarjeta de presentación | [Abrir](./starter-files/leccion-01-tarjeta-de-presentacion/Main.java) | [Abrir](./completed-examples/leccion-01-tarjeta-de-presentacion/Main.java) | [Abrir](./scripts/leccion-01-tarjeta-de-presentacion.md) | [OnlineGDB](https://onlinegdb.com/mctH9lQyc) |
 | 2 | Perfil de red social | [Abrir](./starter-files/leccion-02-perfil-de-red-social/Main.java) | [Abrir](./completed-examples/leccion-02-perfil-de-red-social/Main.java) | [Abrir](./scripts/leccion-02-perfil-de-red-social.md) | [OnlineGDB](https://onlinegdb.com/6QTGRRdy0) |
 | 3 | Plan de ahorro | [Abrir](./starter-files/leccion-03-plan-de-ahorro/Main.java) | [Abrir](./completed-examples/leccion-03-plan-de-ahorro/Main.java) | [Abrir](./scripts/leccion-03-plan-de-ahorro.md) | [OnlineGDB](https://onlinegdb.com/vsmDLp-Yp2) |
-| 4 | Batería del celular | [Abrir](./starter-files/leccion-04-bateria-del-celular/Main.java) | [Abrir](./completed-examples/leccion-04-bateria-del-celular/Main.java) | [Abrir](./scripts/leccion-04-bateria-del-celular.md) | [OnlineGDB](https://onlinegdb.com/5r4s81Hj7j) |
+| 4 | Batería del celular | [Abrir](./starter-files/leccion-04-bateria-del-celular/Main.java) | [Abrir](./completed-examples/leccion-04-bateria-del-celular/Main.java) | [Abrir](./scripts/leccion-04-bateria-del-celular.md) | [OnlineGDB](https://onlinegdb.com/dEBqmqIlJ) |
 | 5 | Conversor de unidades | [Abrir](./starter-files/leccion-05-conversor-de-unidades/Main.java) | [Abrir](./completed-examples/leccion-05-conversor-de-unidades/Main.java) | [Abrir](./scripts/leccion-05-conversor-de-unidades.md) | [OnlineGDB](https://onlinegdb.com/IWeoQoYOp) |
 | 6 | Saludo personalizado | [Abrir](./starter-files/leccion-06-saludo-personalizado/Main.java) | [Abrir](./completed-examples/leccion-06-saludo-personalizado/Main.java) | [Abrir](./scripts/leccion-06-saludo-personalizado.md) | [OnlineGDB](https://onlinegdb.com/Mg8CYm7Gh) |
 | 7 | Mi celular como objeto | [Abrir](./starter-files/leccion-07-mi-celular-como-objeto/Main.java) | [Abrir](./completed-examples/leccion-07-mi-celular-como-objeto/Main.java) | [Abrir](./scripts/leccion-07-mi-celular-como-objeto.md) | [OnlineGDB](https://onlinegdb.com/p3e1PN0LN) |
 | 8 | Alcancía digital | [Abrir](./starter-files/leccion-08-alcancia-digital/Main.java) | [Abrir](./completed-examples/leccion-08-alcancia-digital/Main.java) | [Abrir](./scripts/leccion-08-alcancia-digital.md) | [OnlineGDB](https://onlinegdb.com/hDD2zPA8x) |
-| 9 | Lista de contactos | [Abrir]() | [Abrir]() | [Abrir]() | [OnlineGDB](URL_PRACTICA_9) |
-| 10 | Mi playlist | [Abrir]() | [Abrir]() | [Abrir]() | [OnlineGDB](URL_PRACTICA_10) |
+| 9 | Lista de contactos | [Abrir](./starter-files/leccion-09-Lista-de-contactos/Main.java) | [Abrir](./completed-examples/leccion-09-Lista-de-contactos/Main.java) | [Abrir](scripts/leccion-09-lista-de-contactos.md) | [OnlineGDB](https://onlinegdb.com/cXHSzrNYA) |
+| 10 | Mi playlist | [Abrir](starter-files/leccion-10-my-playlist/Main.java) | [Abrir](completed-examples/leccion-10-my-playlist/Main.java) | [Abrir](scripts/leccion-10-my-playlist-proyecto-final.md) | [OnlineGDB](https://onlinegdb.com/pJi2lbpVl) |
 
 
 - **Consejos para principiantes:** usar nombres descriptivos, comprobar el punto y coma y las llaves, leer los mensajes de error de la consola, probar cambios pequeños y no copiar código sin entenderlo.
@@ -164,6 +164,5 @@ El curso avanza con un proyecto corto en cada lección, y cada uno retoma lo ant
 | Edwin Nicho | Lecciones 3 y 4: guion, video, código de práctica y ejemplos; estructura del repositorio, README y plan de curso | [Commits](https://github.com/Enigma-Devs/java-fundamentals-course-enigma-devs/commits/main?author=Edwindeploy21) · [Pull Request #1](https://github.com/Enigma-Devs/java-fundamentals-course-enigma-devs/pull/1) |
 | Sebastián Leonardo Sayago Vidal | Lecciones 5 y 6: guion, video, código y sección del plan | [Commits](https://github.com/Enigma-Devs/java-fundamentals-course-enigma-devs/commits/main?author=SSayag0V) · [Pull Request #2](https://github.com/Enigma-Devs/java-fundamentals-course-enigma-devs/pull/2) |
 | Gabriel Ramírez | Lecciones 7 y 8: guion, video y código | [Commits](https://github.com/Enigma-Devs/java-fundamentals-course-enigma-devs/commits/main?author=GabrielRamirez06) · [Pull Request #3](https://github.com/Enigma-Devs/java-fundamentals-course-enigma-devs/pull/3) |
-| Alexander Vasquez | Lecciones 9 y 10: guión, video y playlist | ENLACE_PR |
-
+| Alexander Vasquez | Lecciones 9 y 10: guion, video y código | [Commit](https://github.com/Enigma-Devs/java-fundamentals-course-enigma-devs/commit/main?author=Dev-AlexanderVasquez) · [Pull Request #6](https://github.com/Enigma-Devs/java-fundamentals-course-enigma-devs/pull/6) |
 
