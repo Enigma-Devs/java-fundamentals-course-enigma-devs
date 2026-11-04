@@ -1,36 +1,62 @@
 // Leccion 9: Lista de contactos
-
+// Presiona Run para ver la lista de la leccion.
+// Luego, ¡tu turno!: crea tu propia lista y busca uno de tus contactos.
+// Para usar una linea que empieza con //, borra las // del inicio.
 
 class Contacto {
-    // 1. Declara los atributos nombre y telefono como private de tipo String.
-    //private String nombre;
-    //private String telefono;
+    // Atributos privados, como en la alcancia de la leccion 8
+    private String nombre;
+    private String telefono;
 
-    // 2. Crea el constructor para inicializar los atributos nombre y telefono.
-    //public Contacto(String nombre, String telefono) {
+    public Contacto(String nombre, String telefono) {
+        this.nombre = nombre;
+        this.telefono = telefono;
+    }
 
-   // }
-    // 3. Crea los métodos getNombre y getTelefono para devolver los valores de los atributos.
-    //public String getNombre() {
+    // Getters: permiten mirar los datos sin tocarlos
+    public String getNombre() {
         return nombre;
     }
-    // 4. Crea el método getTelefono para devolver el valor del atributo telefono.
-    //public String getTelefono() {
+
+    public String getTelefono() {
         return telefono;
     }
 }
-// 5. Crea la clase Main con el método main para probar la clase Contacto.
+
 public class Main {
-    //public static void main(String[] args) {
-        // 6. Crea un arreglo de Contacto con 3 elementos y asígnales valores.
-        //Contacto[] contactos = new Contacto[3];
+    public static void main(String[] args) {
+        // Ejemplo de la leccion: un array guarda varios contactos juntos
+        // 1. Cambia el 3 por 5 y llena las posiciones 3 y 4 con
+        //    contactos de tus personajes favoritos
+        Contacto[] contactos = new Contacto[3];
+        contactos[0] = new Contacto("Ana", "999111222");
+        contactos[1] = new Contacto("Luis", "988333444");
+        contactos[2] = new Contacto("Sofia", "977555666");
+        // contactos[3] = new Contacto("...", "...");
+        // contactos[4] = new Contacto("...", "...");
 
-    // 7. Muestra los contactos usando un ciclo for y los métodos getNombre y getTelefono.
-        //System.out.println("=== Mis contactos ===");
-        //for (int i = 0; i < contactos.length; i++) {
-            //System.out.println(contactos[i].getNombre() + " - " + contactos[i].getTelefono());
-        //}
-    // 8. Busca un contacto por nombre (ej. "Luis") y muestra su teléfono si lo encuentra, o un mensaje si no lo encuentra.
+        // Recorremos el array con for, como en la leccion 4
+        System.out.println("=== Mis contactos ===");
+        for (int i = 0; i < contactos.length; i++) {
+            System.out.println(contactos[i].getNombre() + " - " + contactos[i].getTelefono());
+        }
 
+        // 2. Busca a uno de tus contactos. Los textos se comparan con equals, no con ==
+        // String buscado = "Luis";
+        // boolean encontrado = false;
+        // for (int i = 0; i < contactos.length; i++) {
+        //     if (contactos[i].getNombre().equals(buscado)) {
+        //         System.out.println("Encontrado: " + contactos[i].getNombre().toUpperCase());
+        //         System.out.println("Telefono: " + contactos[i].getTelefono());
+        //         encontrado = true;
+        //     }
+        // }
+        // if (!encontrado) {
+        //     System.out.println("No se encontro a " + buscado);
+        // }
 
+        // Reto extra: cambia equals por equalsIgnoreCase y busca "luis" con minuscula.
+        // ¿Ahora si lo encuentra?
+
+    }
 }
