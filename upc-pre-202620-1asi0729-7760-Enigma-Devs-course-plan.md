@@ -43,7 +43,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Resultado esperado:** La consola muestra el total de un mes, las semanas completas, lo que sobra y lo que falta, todo calculado por Java.
 - **¡Tu turno!:** armar un plan de ahorro propio y calcular las semanas y lo que sobra. Reto extra: calcular cuántos meses son.
 - **Video en YouTube:** [Ver lección 3](https://youtu.be/U0CJqYzOJrY)
-- **Práctica en editor Java en línea (precargada):** [Práctica 3](https://onlinegdb.com/pTATssOnA) 
+- **Práctica en editor Java en línea (precargada):** [Práctica 3](https://onlinegdb.com/vsmDLp-Yp2) 
 
 ### Lección 4. Batería del celular (6 minutos)
 
@@ -53,7 +53,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Resultado esperado:** El programa decide según el valor de la batería y repite acciones sin copiar instrucciones.
 - **¡Tu turno!:** simular un celular propio, cargarlo de 5 en 5 y mostrar 5 notificaciones. Reto extra: mostrar «Carga completa» al llegar a 100.
 - **Video en YouTube:** [Ver lección 4](https://youtu.be/6RwyIvrcPm0)
-- **Práctica en editor Java en línea (precargada):** [Práctica 4](https://onlinegdb.com/w7q37cW2Y) 
+- **Práctica en editor Java en línea (precargada):** [Práctica 4](https://onlinegdb.com/5r4s81Hj7j) 
 
 ### Lección 5. Conversor de unidades (6 minutos)
 
@@ -127,8 +127,8 @@ El curso avanza con un proyecto corto en cada lección, y cada uno retoma lo ant
 |---|---|---|---|---|---|
 | 1 | Tarjeta de presentación | [Abrir](./starter-files/leccion-01-tarjeta-de-presentacion/Main.java) | [Abrir](./completed-examples/leccion-01-tarjeta-de-presentacion/Main.java) | [Abrir](./scripts/leccion-01-tarjeta-de-presentacion.md) | [OnlineGDB](https://onlinegdb.com/mctH9lQyc) |
 | 2 | Perfil de red social | [Abrir](./starter-files/leccion-02-perfil-de-red-social/Main.java) | [Abrir](./completed-examples/leccion-02-perfil-de-red-social/Main.java) | [Abrir](./scripts/leccion-02-perfil-de-red-social.md) | [OnlineGDB](https://onlinegdb.com/6QTGRRdy0) |
-| 3 | Plan de ahorro | [Abrir](./starter-files/leccion-03-plan-de-ahorro/Main.java) | [Abrir](./completed-examples/leccion-03-plan-de-ahorro/Main.java) | [Abrir](./scripts/leccion-03-plan-de-ahorro.md) | [OnlineGDB](https://onlinegdb.com/pTATssOnA) |
-| 4 | Batería del celular | [Abrir](./starter-files/leccion-04-bateria-del-celular/Main.java) | [Abrir](./completed-examples/leccion-04-bateria-del-celular/Main.java) | [Abrir](./scripts/leccion-04-bateria-del-celular.md) | [OnlineGDB](https://onlinegdb.com/w7q37cW2Y) |
+| 3 | Plan de ahorro | [Abrir](./starter-files/leccion-03-plan-de-ahorro/Main.java) | [Abrir](./completed-examples/leccion-03-plan-de-ahorro/Main.java) | [Abrir](./scripts/leccion-03-plan-de-ahorro.md) | [OnlineGDB](https://onlinegdb.com/vsmDLp-Yp2) |
+| 4 | Batería del celular | [Abrir](./starter-files/leccion-04-bateria-del-celular/Main.java) | [Abrir](./completed-examples/leccion-04-bateria-del-celular/Main.java) | [Abrir](./scripts/leccion-04-bateria-del-celular.md) | [OnlineGDB](https://onlinegdb.com/5r4s81Hj7j) |
 | 5 | Conversor de unidades | [Abrir](./starter-files/leccion-05-conversor-de-unidades/Main.java) | [Abrir](./completed-examples/leccion-05-conversor-de-unidades/Main.java) | [Abrir](./scripts/leccion-05-conversor-de-unidades.md) | [OnlineGDB](https://onlinegdb.com/IWeoQoYOp) |
 | 6 | Saludo personalizado | [Abrir](./starter-files/leccion-06-saludo-personalizado/Main.java) | [Abrir](./completed-examples/leccion-06-saludo-personalizado/Main.java) | [Abrir](./scripts/leccion-06-saludo-personalizado.md) | [OnlineGDB](https://onlinegdb.com/Mg8CYm7Gh) |
 | 7 | Mi celular como objeto | [Abrir](./starter-files/leccion-07-mi-celular-como-objeto/Main.java) | [Abrir](./completed-examples/leccion-07-mi-celular-como-objeto/Main.java) | [Abrir](./scripts/leccion-07-mi-celular-como-objeto.md) | [OnlineGDB](https://onlinegdb.com/p3e1PN0LN) |

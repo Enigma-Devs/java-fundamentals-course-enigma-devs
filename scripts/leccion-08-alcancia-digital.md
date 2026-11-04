@@ -1,14 +1,9 @@
-# Lección 6: Saludo personalizado
+# Lección 8: Alcancía digital (~6 min)
 
-- **Código de práctica:** [`starter-files/leccion-08-alcancia-digital`](../starter-files/leccion-06-saludo-personalizado/Main.java)
-- **Ejemplo completo:** [`completed-examples/leccion-08-alcancia-digital`](../completed-examples/leccion-06-saludo-personalizado/Main.java)
+- **Código de práctica:** [`starter-files/leccion-08-alcancia-digital`](../starter-files/leccion-08-alcancia-digital/Main.java)
+- **Ejemplo completo:** [`completed-examples/leccion-08-alcancia-digital`](../completed-examples/leccion-08-alcancia-digital/Main.java)
 
 Cada bloque tiene tres partes: **Pantalla** (qué se graba), **Narración** (voz en off) y **Edición** (lo que se agrega después).
-
-Saludo personalizado (\~6 min 10 s)
-
-Objetivo: preguntar el nombre y guardarlo con `nextLine()`, preguntar el año de nacimiento y guardarlo con `nextInt()`, llamar al método `calcularEdad` para obtener el resultado y mostrar un saludo personalizado junto a un mensaje condicional usando `if`, `else if` y `else`. Retoma los métodos (lección 5) y el `if-else` (lección 4).
-## Lección 7: Mi celular como objeto (\~6 min 30 s)
 
 Objetivo: proteger los datos de un objeto con `private`, leerlos con un getter (`getSaldo()`) y cambiarlos solo a través de un método que valida (`depositar()` con `if`). Retoma la clase y el constructor (lección 7), el problema de la batería negativa que dejó abierto, y el `if-else` (lección 4).
 

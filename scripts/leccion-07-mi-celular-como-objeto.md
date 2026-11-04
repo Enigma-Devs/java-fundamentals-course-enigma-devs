@@ -1,14 +1,9 @@
-# Lección 6: Saludo personalizado
+# Lección 7: Mi celular como objeto (~6 min 30 s)
 
-- **Código de práctica:** [`starter-files/leccion-07-mi-celular-como-objeto`](../starter-files/leccion-06-saludo-personalizado/Main.java)
-- **Ejemplo completo:** [`completed-examples/leccion-07-mi-celular-como-objeto`](../completed-examples/leccion-06-saludo-personalizado/Main.java)
+- **Código de práctica:** [`starter-files/leccion-07-mi-celular-como-objeto`](../starter-files/leccion-07-mi-celular-como-objeto/Main.java)
+- **Ejemplo completo:** [`completed-examples/leccion-07-mi-celular-como-objeto`](../completed-examples/leccion-07-mi-celular-como-objeto/Main.java)
 
 Cada bloque tiene tres partes: **Pantalla** (qué se graba), **Narración** (voz en off) y **Edición** (lo que se agrega después).
-
-Saludo personalizado (\~6 min 10 s)
-
-Objetivo: preguntar el nombre y guardarlo con `nextLine()`, preguntar el año de nacimiento y guardarlo con `nextInt()`, llamar al método `calcularEdad` para obtener el resultado y mostrar un saludo personalizado junto a un mensaje condicional usando `if`, `else if` y `else`. Retoma los métodos (lección 5) y el `if-else` (lección 4).
-## Lección 7: Mi celular como objeto (\~6 min 30 s)
 
 Objetivo: crear una clase `Celular` con atributos, un constructor con `this` y métodos (`mostrarInfo()` y `usar(minutos)`), y crear dos objetos distintos con `new`. Retoma las variables (lección 2), los métodos (lección 5) y el aviso de batería baja con `if` (lección 4).
 
