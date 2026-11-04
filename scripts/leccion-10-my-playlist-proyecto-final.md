@@ -3,7 +3,7 @@
 - **Código de práctica:** [`starter-files/leccion-10-mi-playlist`](../starter-files/leccion-10-mi-playlist/Main.java)
 - **Ejemplo completo:** [`completed-examples/leccion-10-mi-playlist`](../completed-examples/leccion-10-mi-playlist/Main.java)
 
-Cada bloque tiene dos partes: **Pantalla** (qué se graba), **Narración** (voz en off) y **Edición** (lo que se agrega después).
+Cada bloque tiene tres partes: **Pantalla** (qué se graba), **Narración** (voz en off) y **Edición** (lo que se agrega después).
 
 Objetivo: integrar lo aprendido en el curso en un programa completo, una playlist con menú que agrega canciones, las lista y calcula la duración total, y cerrar con los errores más comunes y cinco buenas prácticas. Retoma los operadores `/` y `%` (lección 3), `if`, `while` y `for` (lección 4), `Scanner` (lección 6), las clases y el constructor (lección 7), la encapsulación (lección 8) y los arrays de objetos (lección 9).
 

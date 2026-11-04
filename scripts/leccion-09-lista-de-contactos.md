@@ -3,7 +3,7 @@
 - **Código de práctica:** [`starter-files/leccion-09-lista-de-contactos`](../starter-files/leccion-09-Lista-de-contactos/Main.java)
 - **Ejemplo completo:** [`completed-examples/leccion-09-lista-de-contactos`](../completed-examples/leccion-09-Lista-de-contactos/Main.java)
 
-Cada bloque tiene dos partes: **Pantalla** (qué se graba) y **Narración** (voz en off). Los tiempos son los del video final.
+Cada bloque tiene tres partes: **Pantalla** (qué se graba), **Narración** (voz en off) y **Edición** (lo que se agrega después).
 
 Objetivo: guardar muchos objetos juntos en un array, recorrerlo con `for`, buscar un contacto por su nombre con `equals` y mostrar texto en mayúsculas con `toUpperCase()`. Retoma el `for` (lección 4), la clase y el constructor con `this` (lección 7) y los atributos `private` con getters (lección 8).
 
