@@ -1,23 +1,38 @@
 // Leccion 5: Conversor de unidades
-// ¡Tu turno! Crea tus propios metodos y prueba las conversiones.
+// Presiona Run para ver los metodos de la leccion.
+// Luego, ¡tu turno!: crea tu propio metodo y completa los pasos.
+// Para usar una linea que empieza con //, borra las // del inicio.
 
 public class Main {
     public static void main(String[] args) {
-        // 1. Llama al metodo kmAMillas con 5 y muestra el resultado.
-        // System.out.println(...);
+        // Ejemplo de la leccion: llamamos a los metodos con un dato
+        System.out.println("5 km = " + kmAMillas(5) + " millas");
+        System.out.println("30 C = " + celsiusAFahrenheit(30) + " F");
 
-        // 2. Llama al metodo kmAMillas con 42 y muestra el resultado.
-        // System.out.println(...);
+        // 1. Llama a kmAMillas con otro numero (por ejemplo, 42)
+        // System.out.println("42 km = " + kmAMillas(42) + " millas");
 
-        // 3. Llama al metodo celsiusAFahrenheit con 30 y muestra el resultado.
-        // System.out.println(...);
+        // 2. Crea el metodo kgALibras (mas abajo) y llamalo aqui
+        //    con el peso de tu mochila
+        // System.out.println("4 kg = " + kgALibras(4) + " libras");
 
-        // 4. Usa un for para mostrar una tabla de conversion de 1 a 10 km.
+        // Reto extra: con un for, muestra una tabla de temperaturas
+        // de 0 a 40 grados, de 10 en 10 (pista: i = i + 10)
+
     }
 
-    // Crea aqui el metodo kmAMillas.
-    // Debe recibir un double y devolver un double.
+    // Metodo de la leccion: recibe kilometros y devuelve millas
+    public static double kmAMillas(double km) {
+        return km * 0.621371;
+    }
 
-    // Crea aqui el metodo celsiusAFahrenheit.
-    // Debe recibir un double y devolver un double.
+    // Metodo de la leccion: recibe grados Celsius y devuelve Fahrenheit
+    public static double celsiusAFahrenheit(double c) {
+        return c * 9 / 5 + 32;
+    }
+
+    // 2. Crea aqui el metodo kgALibras: recibe un double y devuelve el peso por 2.2
+    // public static double kgALibras(double kg) {
+    //     return ...;
+    // }
 }

@@ -2,61 +2,63 @@
 
 > Curso introductorio de Java y Programación Orientada a Objetos (POO) para estudiantes de 12 a 17 años. No se requiere instalar software: las prácticas se realizan en editores web gratuitos.
 
+▶️ **[Ver el curso completo en YouTube](https://www.youtube.com/playlist?list=PLdj8RZo5b8Io)**
+
+
 ## Información general
 
 - **Curso académico:** 1ASI0729 Desarrollo de Aplicaciones Open Source, ciclo 202620.
-- **Formato:** 9 lecciones breves en video, aproximadamente 60 minutos en total.
+- **Formato:** 10 lecciones breves en video (5 a 7 minutos cada una), aproximadamente 60 minutos en total.
 - **Público objetivo:** estudiantes de secundaria sin conocimientos previos.
 - **Entorno de práctica:** navegador web y editor Java en línea (p. ej., OnlineGDB, JDoodle o Replit).
-- **Proyecto integrador provisional:** mascota virtual en consola. Se desarrolla gradualmente desde la primera lección hasta convertirse en una aplicación basada en objetos.
+- **Proyecto final:** «Mi playlist», una aplicación en consola basada en objetos que integra lo aprendido en las lecciones 1 a 9. Cada lección construye un proyecto corto propio (tarjeta de presentación, plan de ahorro, batería del celular, alcancía digital, entre otros).
 
+upc-pre-202620-1asi0729-7760-Enigma-Devs-course-plan.md
 ## Plan de curso
 
-Consulta el **[plan de curso completo](./upc-pre-202620-1asi0729-NRC-STARTUP-course-plan.md)**, que contiene el recorrido de aprendizaje, las duraciones, las actividades, los enlaces pendientes de los videos y la participación del equipo.
+Consulta el **[plan de curso completo](./upc-pre-202620-1asi0729-7760-Enigma-Devs-course-plan.md)**, que contiene el recorrido de aprendizaje, las duraciones, las actividades, los enlaces pendientes de los videos y la participación del equipo.
 
-**Enlace público al repositorio:** `[AGREGAR URL REAL DE GITHUB CUANDO SE CREE]`.
+**Enlace público al repositorio:** [https://github.com/Enigma-Devs/java-fundamentals-course-enigma-devs](https://github.com/Enigma-Devs/java-fundamentals-course-enigma-devs)
 
 ## Estructura del repositorio
 
 ```text
-java-fundamentals-course-[nombre-del-equipo]/
+java-fundamentals-course-[enigma-devs]/
 ├── README.md
 ├── upc-pre-202620-1asi0729-NRC-STARTUP-course-plan.md
 ├── starter-files/         # Código inicial para actividades prácticas
 ├── completed-examples/   # Código Java final de cada lección
 └── scripts/              # Guiones de narración y grabación
 ```
+Cada lección tiene una carpeta con el mismo nombre en `starter-files/` y `completed-examples/` (por ejemplo, `leccion-03-plan-de-ahorro/`), y su guion en `scripts/` (por ejemplo, `leccion-03-plan-de-ahorro.md`). Todos los programas se llaman `Main.java`, para que puedan copiarse y ejecutarse directamente en OnlineGDB sin realizar cambios.
 
-Las carpetas están creadas inicialmente con archivos `.gitkeep`; se añadirán los ejercicios y guiones conforme avance el trabajo.
+## Cómo realizar las prácticas (sin necesidad de instalaciones)
 
-## Cómo realizar las prácticas (sin instalaciones)
-
-1. Abre el enlace del editor en línea correspondiente a la lección desde el [plan de curso](./upc-pre-202620-1asi0729-NRC-STARTUP-course-plan.md).
+1. Abre el enlace del editor en línea correspondiente a la lección desde el [plan de curso](upc-pre-202620-1asi0729-7760-Enigma-Devs-course-plan.md).
 2. Ejecuta el código inicial en tu navegador.
 3. Completa los retos indicados en el video.
 4. Si necesitas comprobar tu resultado, consulta el código de `completed-examples/`.
 
-No se debe exigir al estudiante instalar JDK, IDE, extensiones ni herramientas locales; toda la experiencia de aprendizaje funciona en línea.
+No se exige al estudiante instalar JDK, IDE, extensiones ni herramientas locales; toda la experiencia de aprendizaje funciona en línea.
 
 ## Colaboración del equipo
 
-Las personas integrantes colaboran a través de sus propias cuentas de GitHub y deben registrar cambios mediante commits identificables. Propuesta de flujo:
+Los integrantes de **Enigma-devs** colaboran a través de sus propias cuentas de GitHub y deben registrar cambios mediante commits identificables. Propuesta de flujo:
 
 ```bash
-git clone https://github.com/ORGANIZACION/java-fundamentals-course-NOMBRE-EQUIPO.git
-cd java-fundamentals-course-NOMBRE-EQUIPO
+git clone https://github.com/Enigma-Devs/java-fundamentals-course-enigma-devs.git
+cd java-fundamentals-course-enigma-devs
 git checkout -b feature/mi-leccion
 # Editar archivos de la lección
 git add .
 git commit -m "docs: add lesson content"
 git push -u origin feature/mi-leccion
 ```
-
-Luego se crea un **Pull Request** para revisar e integrar los cambios a `main`. Se recomienda que cada integrante use su propia cuenta GitHub, sin compartir contraseñas ni tokens.
+Luego se crea un **Pull Request** para revisar e integrar los cambios a `main`.
 
 ## Estado del proyecto
 
-**Plantilla inicial, no entrega final:** aún se deben reemplazar los identificadores `NRC`, `STARTUP`, el nombre del equipo, los nombres de los participantes, los enlaces de YouTube y los enlaces a las prácticas precargadas. También se deben agregar todos los códigos y guiones.
+Las 10 lecciones están publicadas en YouTube como una playlist de videos no listados. El repositorio contiene el código inicial, los ejemplos completos y los guiones de cada lección.
 
 ## Condiciones de publicación
 

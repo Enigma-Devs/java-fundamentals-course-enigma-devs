@@ -1,36 +1,53 @@
-// Leccion 8: Alcancía digital
-// ¡Tu turno! Protege el saldo usando private, crea un getter y valida los depósitos.
+// Leccion 8: Alcancia digital
+// Presiona Run para ver la alcancia de la leccion.
+// Luego, ¡tu turno!: crea tu propia alcancia y completa los pasos.
+// Para usar una linea que empieza con //, borra las // del inicio.
 
 class Alcancia {
-    // 1. Declara el atributo saldo como private de tipo double.
-    // private double saldo;
+    // private: el saldo solo se puede usar dentro de esta clase
+    private double saldo;
 
-    // 2. Crea el constructor para inicializar el saldo con saldoInicial.
-    // public Alcancia(double saldoInicial) {
-    //     ...
-    // }
+    public Alcancia(double saldoInicial) {
+        saldo = saldoInicial;
+    }
 
-    // 3. Crea el metodo getSaldo para devolver el valor actual del saldo.
-    // public double getSaldo() {
-    //     ...
-    // }
+    // Getter: permite mirar el saldo sin tocarlo
+    public double getSaldo() {
+        return saldo;
+    }
 
-    // 4. Crea el metodo depositar que reciba un monto y use if/else para validar
-    // que sea mayor a 0 antes de sumarlo al saldo.
-    // public void depositar(double monto) {
-    //     ...
-    // }
+    // Solo acepta depositos que tengan sentido (mayores que 0)
+    public void depositar(double monto) {
+        if (monto > 0) {
+            saldo = saldo + monto;
+            System.out.println("Depositaste S/ " + monto);
+        } else {
+            System.out.println("Monto no valido: " + monto);
+        }
+    }
+
+    // Reto extra: crea aqui un metodo retirar(double monto)
+    // que solo deje sacar dinero si hay suficiente saldo
 }
 
 public class Main {
     public static void main(String[] args) {
-        // 5. Crea una instancia de Alcancia con un saldo inicial (ej. 20).
-        // Alcancia mia = ...;
+        // Ejemplo de la leccion
+        Alcancia mia = new Alcancia(20);
+        System.out.println("Saldo: S/ " + mia.getSaldo());
+        mia.depositar(15);
+        mia.depositar(-50);
+        System.out.println("Saldo: S/ " + mia.getSaldo());
 
-        // 6. Muestra el saldo inicial usando getSaldo().
+        // 1. Crea tu propia alcancia con un saldo inicial
+        // Alcancia miAlcancia = new Alcancia(...);
 
-        // 7. Realiza un depósito válido (ej. 15) y uno inválido (ej. -50).
+        // 2. Haz varios depositos, incluido uno negativo, y muestra el saldo
+        // miAlcancia.depositar(...);
+        // System.out.println("Mi saldo: S/ " + miAlcancia.getSaldo());
 
-        // 8. Muestra el saldo final para verificar que la regla del if funcionó.
+        // 3. Intenta cambiar el saldo directamente y mira el error que da Java:
+        // mia.saldo = 1000;
+
     }
 }
