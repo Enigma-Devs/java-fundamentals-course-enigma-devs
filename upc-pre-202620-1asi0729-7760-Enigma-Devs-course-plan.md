@@ -32,7 +32,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Actividad progresiva:** Declarar el nombre de usuario, los seguidores, el promedio de likes y la verificación de una cuenta, y mostrar el perfil completo con `System.out.println`.
 - **Resultado esperado:** La consola muestra el perfil y se actualiza al cambiar el valor de una variable.
 - **¡Tu turno!:** crear el perfil de un personaje, youtuber o futbolista favorito. Reto extra: agregar la cantidad de publicaciones.
-- **Video en YouTube:** [Ver lección 2](https://youtu.be/lRJa5YG2ivc)
+- **Video en YouTube:** [Ver lección 2](https://youtu.be/Ni2LI7iFSo4?si=p0swMib24zSMAlPn)
 - **Práctica en editor Java en línea (precargada):** [Práctica 2](https://onlinegdb.com/6QTGRRdy0) 
 
 ### Lección 3. Plan de ahorro (6 minutos)
