@@ -22,7 +22,7 @@ Curso introductorio de programación con Java para estudiantes de secundaria de 
 - **Actividad progresiva:** Ejecutar el programa «Hello World» en OnlineGDB y transformarlo en una tarjeta de presentación que muestre un nombre, una edad y un pasatiempo con `System.out.println`.
 - **Resultado esperado:** El programa muestra en la consola cada dato de la tarjeta en su propia línea y en orden.
 - **¡Tu turno!:** escribir la tarjeta propia. Reto extra: agregar la comida favorita.
-- **Video en YouTube:** [Ver lección 1](https://youtu.be/H7QWgHaTVNg)
+- **Video en YouTube:** [Ver lección 1](https://youtu.be/wrPxy3gnUU8?)
 - **Práctica en editor Java en línea (precargada):** [Práctica 1](https://onlinegdb.com/mctH9lQyc) 
 
 ### Lección 2. Perfil de red social (4 minutos)
